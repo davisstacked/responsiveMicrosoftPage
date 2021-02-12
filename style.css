@@ -69,21 +69,6 @@ ul {
 
 /* HEADER */
 
-.btn {
-    cursor: pointer;
-    display: inline-block;
-    border: 0;
-    font-weight: bold;
-    padding: 10px 20px;
-    background: #262626;
-    color: #fff;
-    font-size: 15px
-}
-
-.btn:hover {
-    opacity: 0.9;
-}
-
 .showcase {
     width: 100%;
     height: 400px;
@@ -105,6 +90,26 @@ ul {
 
 .showcase .btn {
     margin-top: 20px;
+    width: 200px;
+}
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    font-weight: bold;
+    padding: 10px 20px;
+    background: #262626;
+    color: #fff;
+    font-size: 15px
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.link-one-person {
+    font-weight: bold;
 }
 
 /* Home cards */
