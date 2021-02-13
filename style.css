@@ -110,6 +110,7 @@ ul {
 
 .link-one-person {
     font-weight: bold;
+    margin-left: 20px;
 }
 
 /* Home cards */
@@ -147,6 +148,7 @@ ul {
     height: 350px;
     background: url('./img/xbox.jpeg') 
     no-repeat center center/cover;
+    margin-bottom: 20px;
 }
 
 .xbox .content {
