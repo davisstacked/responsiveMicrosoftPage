@@ -141,6 +141,23 @@ ul {
     margin-left: 10px;
 }
 
+/* Home Icons */
+
+.home-icons-unordered {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.home-icons-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home-icons-list a div {
+    text-align: center;
+}
+
 /* Xbox */
 
 .xbox {
